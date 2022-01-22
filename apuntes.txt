@@ -1,0 +1,16 @@
+Curso Basico de Python 
+
+Operadores aritméticos 
+
+
+// división euclideana 
+%  módulo 
+** potencia 
+
+Reglas para definir los nombres de las variables:
+    No puede comenzar con números
+    Debe estar en minúsculas 
+    Las palabras dentro del mismo nombre se separan con guin bajo (_)
+
+Tipos de datos 
+    
